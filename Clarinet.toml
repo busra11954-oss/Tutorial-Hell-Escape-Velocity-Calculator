@@ -5,13 +5,13 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
-[contracts.side-project-graveyard-memorial]
-path = 'contracts/side-project-graveyard-memorial.clar'
+[contracts.course-completion-to-real-project-ratio]
+path = 'contracts/course-completion-to-real-project-ratio.clar'
 clarity_version = 3
-epoch = 'latest'
+epoch = '3.2'
 
-[contracts.tutorial-completion-abandonment-tracker]
-path = 'contracts/tutorial-completion-abandonment-tracker.clar'
+[contracts.fresh-start-syndrome-frequency]
+path = 'contracts/fresh-start-syndrome-frequency.clar'
 clarity_version = 3
 epoch = '3.2'
 [repl.analysis]
